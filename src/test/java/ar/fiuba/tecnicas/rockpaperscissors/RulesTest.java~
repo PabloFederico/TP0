@@ -2,14 +2,14 @@ package ar.fiuba.tecnicas.rockpaperscissors;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import org.junit.Assert.assertEquals;
 
 
 public class RulesTest {
 
-    private XXXXXX rock = XXXXXX;
-    private XXXXXX paper = XXXXXX;
-    private XXXXXX scissors = XXXXXX;
+    private piedra rock = new piedra();
+    private papel paper = new papel();
+    private tijera scissors = new tijera();
 
     @Test
     public void rockBeatsScissors() {
