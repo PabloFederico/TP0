@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.003" errors="0" skipped="0" tests="9" name="ar.fiuba.tecnicas.rockpaperscissors.RulesTest">
+<testsuite failures="0" time="0.004" errors="0" skipped="0" tests="9" name="ar.fiuba.tecnicas.rockpaperscissors.RulesTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386"/>
@@ -67,6 +67,6 @@
   <testcase time="0" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="paperTieWithPaper"/>
   <testcase time="0" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="paperBeatsRock"/>
   <testcase time="0" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="scissorsTieWithScissors"/>
-  <testcase time="0" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="scissorsBeatsPaper"/>
+  <testcase time="0.001" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="scissorsBeatsPaper"/>
   <testcase time="0" classname="ar.fiuba.tecnicas.rockpaperscissors.RulesTest" name="rockLostWithPaper"/>
 </testsuite>
